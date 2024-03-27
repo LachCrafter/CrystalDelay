@@ -5,7 +5,6 @@ CrystalDelay is a custom Minecraft plugin designed for Paper servers running ver
 
 ## Features
 - **Ping-Independent Delays**: Adds a fixed delay to the destruction of End Crystals to mitigate advantages from lower ping times.
-- **Easy Configuration**: Simple configuration file to adjust the delay to suit server needs.
 - **Performance Optimized**: Minimally impacts server performance, ensuring a smooth gameplay experience.
 
 ## Installation
