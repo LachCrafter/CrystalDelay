@@ -1,0 +1,3 @@
+name: CrystalDelay
+version: '${version}'
+main: de.lachcrafter.crystaldelay.CrystalDelay

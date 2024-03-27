@@ -16,7 +16,11 @@ atlassian-ide-plugin.xml
 
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
 # Compiled class filel
+=======
+# Compiled class file
+>>>>>>> a8d764df9a74ec089b078d1929ac5db4a4fcdaf3
 *.class
 
 # Log file
