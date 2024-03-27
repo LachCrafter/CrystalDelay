@@ -21,7 +21,7 @@ public final class CrystalDelay extends JavaPlugin implements Listener {
             if (event.getDamager() instanceof Player) {
                 event.setCancelled(true);
                 EnderCrystal crystal = (EnderCrystal) event.getEntity();
-                Bukkit.getScheduler().runTaskLater(this, () -> crystal.remove(), 6L);
+                Bukkit.getScheduler().runTaskLater(this, () -> crystal.remove(), 6L); // 6 ticks = 0.3 seconds
             }
         }
     }
